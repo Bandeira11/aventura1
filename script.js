@@ -17,3 +17,5 @@ if(proximoElemento){
 
 });
 });
+
+PageRevealEvent('passo')
